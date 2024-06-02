@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api](https://github.com/junhee4613)?junhee4613=anuraghazra)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/junhee4613))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhee4613)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhee4613)](https://solved.ac/junhee4613/)
 <!--
 **junhee4613/junhee4613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
